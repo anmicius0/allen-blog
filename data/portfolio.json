@@ -1,0 +1,93 @@
+{
+  "name": "Allen Lin",
+  "headerTagline": "Hello 👋<br>I'm Allen Lin - <br>innovator with <u>200%</u> efficiency<br>from Taipei.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "2", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Deciphering Taiwan 2024",
+      "description": "Data Analysis",
+      "imageSrc": "https://i.imgur.com/zNC69y3.png",
+      "url": "https://2024-taiwan-election-dashboard.pages.dev/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Software Development",
+      "description": "Proficient in a wide array of programming languages and frameworks, delivering top-tier solutions that exceed client expectations and drive business success. Fluent in leveraging AI technologies to enhance software capabilities."
+    },
+    {
+      "id": "2",
+      "title": "Cyber Security",
+      "description": "Expert in safeguarding digital assets with cutting-edge security measures and proactive threat management. Utilizing AI for advanced threat detection and response."
+    },
+    {
+      "id": "3",
+      "title": "Cloud Infrastructure",
+      "description": "Specialized in designing and managing scalable, reliable, and cost-effective cloud solutions tailored to your business needs. Integrating AI for optimized resource management and predictive analytics."
+    },
+    {
+      "id": "4",
+      "title": "Dev/Ops",
+      "description": "Streamlining development and operations with robust automation, continuous integration, and continuous delivery practices. Employing AI to enhance automation and efficiency."
+    },
+    {
+      "id": "5",
+      "title": "CI/CD",
+      "description": "Enhancing software development workflows with seamless integration and deployment pipelines for faster and more reliable releases. Using AI to predict and resolve integration issues."
+    }
+  ],
+  "aboutpara": "🚀 Innovative full-stack engineer bridging cutting-edge technology with real-world impact.<br/><br/>💡 Specializing in cloud-native solutions, AI integration, and enterprise-scale digital transformation.<br/><br/>🎯 Committed to engineering tomorrow's solutions with precision, creativity, and sustainable excellence.",
+  "resume": {
+    "tagline": "Bridging Code and Community: Innovator Engineering Tomorrow's Solutions",
+    "description": "🎓 Excellent NCKU CS senior with 1 utility-patented election algorithm (1.8% max loss)<br><br>💻 Full-stack developer leading enterprise projects: campus digital transformation and civic tech solutions<br><br>☁️ Cloud-native developer mastering AWS/GCP/Azure and React/Angular frameworks<br><br>🌏 Global communicator with TOEIC 980 and international experience (US/Finland)<br><br>🏆 Credentialed problem-solver: Harvard CS50, Google Code-in, and professional certifications<br><br>🤝 Agile team collaborator. With 200% efficiency in past experience",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "2024/11 - Present",
+        "type": "Internship",
+        "position": "Digital Innovation Department at Cathy Holding",
+        "bullets": "Granted exceptional remote work flexibility in recognition of demonstrated advanced capabilities and consistently exceeding role requirements"
+      },
+      {
+        "id": "2",
+        "dates": "2024/07 - 2024/08",
+        "type": "Full Time",
+        "position": "Digital Innovation Department at KD Furniture",
+        "bullets": "200% work efficiency (vs. team average measured by KPI), Successfully led digital system transition and implementation"
+      }
+    ],
+    "education": {
+      "universityName": "National Cheng Kung University（成功大學）",
+      "universityDate": "2021-2025",
+      "universityPara": "Bachelor of Science in Computer Science"
+    },
+    "languages": ["Python", "Java", "JavaScript", "C/C++", "HTML5", "CSS"],
+    "frameworks": [
+      "React",
+      "Angular",
+      "Vue",
+      "Node.js",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "others": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "Linux",
+      "REST API",
+      "MySQL",
+      "DevOps",
+      "Git"
+    ]
+  }
+}
